@@ -1,8 +1,5 @@
 /*	load 3ds file
  *
- *			written by Alexander Zaprjagaev
- *			frustum@public.tsu.ru
- *
  *	usage:
  *	float *load_3ds(char *name,int *num_vertex);
  *	1,2,3 - xyz

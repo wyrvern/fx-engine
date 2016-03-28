@@ -1,7 +1,5 @@
 /*  load JPEG file (baseline)
  *
- *      written by Alexander Zaprjagaev
- *      frustum@public.tsu.ru
  */
 
 #ifndef __LOADJPEG_H__

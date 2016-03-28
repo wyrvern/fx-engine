@@ -1,7 +1,4 @@
 /*  load JPEG file (baseline)
- *
- *      written by Alexander Zaprjagaev
- *      frustum@public.tsu.ru
  */
 
 #include <stdio.h>

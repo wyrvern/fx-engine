@@ -1,7 +1,5 @@
 /*	3d math lib
  *
- *		written by Alexander Zaprjagaev
- *		frustum@public.tsu.ru
  */
 
 #ifndef __MATHLIB_H__
